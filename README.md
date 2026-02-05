@@ -706,8 +706,7 @@ See [DEPLOYMENT.md](docs/DEPLOYMENT.md) for detailed deployment instructions.
 This is a portfolio demonstration project. For questions or feedback, please contact:
 
 **Shruti Malik**  
-Email: [your-email@example.com]  
-LinkedIn: [Your LinkedIn Profile]  
+Email: [idevshruti@gmail.com]   
 GitHub: [@shrutimalik123](https://github.com/shrutimalik123)
 
 ## 📝 License
