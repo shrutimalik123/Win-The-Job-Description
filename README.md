@@ -18,8 +18,8 @@ This enterprise AI platform demonstrates the implementation of generative AI ser
 - **Cloud Infrastructure**: Multi-cloud support (Azure/AWS) with Kubernetes
 - **Modern DevOps**: CI/CD pipelines, containerization, and automated testing
 
-**Job Application Reference**: R-10367735 - AI Implementation Engineer  
-**Applicant**: Shruti Malik (Referral)  
+**Job Application Reference**: AI Implementation Engineer  
+**Applicant**: Shruti Malik 
 **Date**: February 4, 2026
 
 ## 🏗️ System Architecture
@@ -727,7 +727,7 @@ Resources used to build this project:
 
 **Project Status**: ✅ Complete and Ready for Review
 
-**Application Reference**: R-10367735 - AI Implementation Engineer  
+**Application Reference**:  AI Implementation Engineer  
 **Company**: Fiserv  
 **Date**: February 4, 2026
 
